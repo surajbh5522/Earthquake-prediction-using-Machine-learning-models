@@ -3,10 +3,8 @@
 A project done for the course CSE3505 - Essentials of Data Analytics under <b>ELANGO N M</b>
 <h3>Team members</h3>
 <ul>
-<li><b>AKASH R 20BCE1501</b> Github: <a href="https://github.com/akash-r34">akash-r34</a></li>
-<li><b>ARJUN BHARANI 20BCE1505</b> Github: <a href="https://github.com/ArjunBharani">ArjunBharani</a></li>
-<li><b>SHIVAM SHARMA 20BCE1442</b> Github: <a href="https://github.com/shivams-23">shivams-23</a></li>
-<li><b>AKSHAY GIRISH 20BCE1573</b> Github: <a href="https://github.com/Akshaykviit023">Akshaykviit023</a></li>
+<li><b>ravi kumar 22bcs10709</b> Github: <a href="https://github.com/surajbh5522">akash-r34</a></li>
+
 </ul>
 <h2>Abstract</h2>
 Earthquakes are natural disasters that can cause significant damage and loss of life. Accurate prediction of earthquakes is essential for developing early warning systems, disaster planning, risk assessment, and scientific research.
