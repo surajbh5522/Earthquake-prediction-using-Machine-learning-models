@@ -3,7 +3,7 @@
 A project done for the course CSE3505 - Essentials of Data Analytics under <b>ELANGO N M</b>
 <h3>Team members</h3>
 <ul>
-<li><b>ravi kumar 22bcs10709</b> Github: <a href="https://github.com/surajbh5522">akash-r34</a></li>
+<li><b>ravi kumar 22bcs10709</b> Github: <a href="https://github.com/surajbh5522">ravi_bh5522</a></li>
 
 </ul>
 <h2>Abstract</h2>
